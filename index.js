@@ -18,5 +18,5 @@ if(xp < 1000){
 }else(xp >= 10001)
     console.log("A patente do seu héroi é Radiante")
 
-console.log("O Héroi de nome " + nome + " está no nível de " + xp);
+console.log("O Héroi de nome "   + " está no nível de " + xp);
 
